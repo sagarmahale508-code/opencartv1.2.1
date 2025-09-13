@@ -1,0 +1,11 @@
+20:42:46.718 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest.java *****
+20:42:46.866 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:45:44.721 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest.java *****
+20:45:44.876 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:47:23.545 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest.java *****
+20:47:23.623 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:47:23.624 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest.java 
+20:49:33.168 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest.java *****
+20:49:33.299 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+20:49:33.299 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+20:49:33.301 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest.java 
